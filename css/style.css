@@ -1,0 +1,71 @@
+
+body {
+	background-image: linear-gradient(to bottom right, black,black,black,black);
+	background-color: #4B0082;
+	color: #FFFF00;
+	font-family: 
+
+}
+
+h1 {
+	font-size: 90px;
+}
+img {
+	height: 1000
+	width: 1000;
+	display: flex;
+	border-radius: 50%
+}
+h1 {font-family: 'Stalinist One', cursive;
+margin-bottom: 0;
+}
+
+.image2 {
+	height: 200px;
+	width:200px;
+	max-height: 30;
+
+}
+.image3 {
+	height: 200px;
+	width: 200px;
+	color: #4B0082 
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	/*width: 200px; */
+	background-color: black;
+	overflow: hidden;
+	background-color: #48047d;
+	position: fixed; 
+
+}
+
+li a {
+	display:block;
+	color:coral;
+	text-align: center;
+	padding: 8px 105px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: yellow;
+	color: #48047d;
+
+}
+li{
+	float: left;
+}
+li a{
+	text-align: center;
+}
+.active {
+	background-color: ;
+}
+.paregraph {
+	width:800px;
+}
